@@ -2,4 +2,5 @@ Generate jar or war
 mvn package
 java -jar target/name-package.jar
 
-Creating a root route in application.proprieties
+Creating a root route in application.proprieties file.
+server.servlet.context-path=/aplicationNameURL
