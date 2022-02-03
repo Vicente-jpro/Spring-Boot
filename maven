@@ -1,0 +1,5 @@
+Generate jar or war 
+mvn package
+java -jar target/name-package.jar
+
+Creating a root route in application.proprieties
